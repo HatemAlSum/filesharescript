@@ -78,5 +78,4 @@ Never commit your actual connection string to source control. Consider using:
 - User secrets in development
 
 ## License
-
-[Add your chosen license here]
+This project is licensed under the MIT License. Feel free to use, modify, and contribute!
